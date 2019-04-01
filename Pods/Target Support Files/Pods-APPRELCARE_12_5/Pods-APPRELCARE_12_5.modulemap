@@ -1,0 +1,6 @@
+framework module Pods_APPRELCARE_12_5 {
+  umbrella header "Pods-APPRELCARE_12_5-umbrella.h"
+
+  export *
+  module * { export * }
+}
